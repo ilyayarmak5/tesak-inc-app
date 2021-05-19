@@ -9,7 +9,7 @@ https://tesak.me/
 # Main features
 
 1. PC, tablet, mobile responsive application.
-2. Components animations and pages transitions created using react-reveal and react-transition-group.
+2. Component animations and page transitions created using react-reveal and react-transition-group.
 3. A slider for "featured projects" section.
 4. A form which sends input provided by the user to the agency's personal e-mail (implemented using emailjs library).
 
