@@ -12,6 +12,7 @@ https://tesak.me/
 2. Component animations and page transitions created using react-reveal and react-transition-group.
 3. A slider for "featured projects" section.
 4. A form which sends input provided by the user to the agency's personal e-mail (implemented using emailjs library).
+5. Expandable Projects and Experts pages
 
 # Technologies used:
 
